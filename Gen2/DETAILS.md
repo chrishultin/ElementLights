@@ -3,6 +3,7 @@
 ## ESP32 GPIO Pins
 | ESP32 Pin | Connected To |
 | --------- | ------------ |
+| GPIO22    | Power Button |
 | GPIO32    | Microphone   |
 | GPIO33    | LED Control  |
 
